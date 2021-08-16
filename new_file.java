@@ -7,4 +7,8 @@ class new_prog
 		asdasdas
 		asdasdas
 		asdas
-}
+}dfs
+sdfsdfsdf
+sdfsdfsd
+sdfsdfs
+
